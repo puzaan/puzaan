@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://pujanportfolio.web.app/**
 
-- 📄 Know about my experiences [worked at acherivergroups software and research center as MERN stack developer](worked at acherivergroups software and research center as MERN stack developer)
+- 📄 Know about my experiences [worked at Inventors Academy as MERN stack developer](worked at Inventors Academy as MERN stack developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
