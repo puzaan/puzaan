@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pujan Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Java Springboot developer</h3>
 
-- 🔭 I’m currently working on [Doctor Appointment](https://appointment-8ca27.web.app/)
+- 🌱  I’m currently Exploring about Spring Boot.
+
+- 🌱I've been doing project like House Rent Management ( https://gitlab.com/puzaan/nwrxt/ ) 
 
 - 🌱 I’m currently learning **Java Springboot micro services**
 
-- 👯 I’m looking to Working on **ERP**
+- 🔭 I’ve worked on a project like [Doctor Appointment](https://appointment-8ca27.web.app/) 
 
-- 👨‍💻 I’m currently working [ERP system springboot and reactjs with typescript](ERP system springboot and reactjs with typescript)
+- 👨‍💻 I’ve worked on a project like [ERP system springboot and reactjs](ERP system springboot and reactjs)
 
 - 📫 How to reach me **https://pujanportfolio.web.app/**
 
-- 📄 Know about my experiences [worked at Inventors Academy as MERN stack developer](worked at Inventors Academy as MERN stack developer)
+- 📄 Know about my experiences [worked at Inventors Academy as MERN stack developer](worked at Inventors Academy as Java Springboot developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
